@@ -1,0 +1,124 @@
+body
+{
+  background-color: #292929;
+  color: white;
+  font-size: 25px;
+}
+
+#container
+{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+
+
+#logo
+{
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+.reclangle
+{
+  width: 900px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#edu
+{
+  float: left;
+  width: 200px;
+  background-color: #228B22;
+  margin:40px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#edu:hover
+{
+  background-color: #117A11;
+}
+
+#skills
+{
+  float: left;
+  width: 200px;
+  background-color: #3CB371;
+  margin:40px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#skills:hover
+{
+  background-color: #2BA261;
+}
+
+#contact
+{
+  float: left;
+  width: 200px;
+  background-color: #6B8E23;
+  margin:40px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#contact:hover
+{
+  background-color: #5A7D12;
+}
+
+.rectangle2
+{
+  height: 320px;
+  margin: 40px;
+}
+
+#icon
+{
+  float: left;
+  width: 320px;
+  text-align: center;
+}
+
+img
+{
+  height: 320px;
+}
+
+#content
+{
+  float: left;
+  width: 740px;
+  height: 280px;
+  margin-left: 20px;
+  background-color: #808080;
+  padding: 20px;
+  text-align: justify;
+}
+
+#footer
+{
+  clear: both;
+  font-size: 20px;
+  text-align: center;
+}
+
+a.sociallink
+{
+  color: white;
+  text-decoration: none;
+}
+
+a.link
+{
+  color: white;
+  text-decoration: none;
+  display: block;
+}
