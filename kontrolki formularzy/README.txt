@@ -1,1 +1,1 @@
-Studying classic form controls from tutorial: "Kurs HTML odc. 6: Klasyczne kontrolki formularzy" by Miroslaw Zelent 
+Studying classic form controls and doing showcase of them from tutorials: "Kurs HTML odc. 6: Klasyczne kontrolki formularzy" and "Kurs HTML odc. 7: "Pozostałe kontrolki formularzy" by Mirosław Zelent 
